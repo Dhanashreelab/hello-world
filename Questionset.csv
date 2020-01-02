@@ -1,0 +1,11 @@
+Question,Answer
+Which type of goods are zero rated?,"books, newspaper, children clothing and shoes, motorcycle helmet"
+How many types of preferences?,"There are 3 types of preferences: GSP-200, ATR-400, EUR-300"
+Name of Special Territories countries(T2L)?,"Aland Island, Channel Islands- Guensey, Jersey, Sark Islands, Alderney, Canary Islands- Tenerife, La palma, La Gomera, EI Hierro, Fuerteventura, Gran Canary "
+RTO CPC?,"6123F01, 4923F01"
+What is the currency of London?,GBP(POUND)
+What is the country of origin of JAPAN?,JP
+Please Explain the process of shipment clearance?,"First Check the Paperwork for given shipment, all papers are available then check AWB no is match or not. If match the follow the steps : 1. Check the Customer address on paper and search CMF on system and follow the rules of CMF search. Found the correct CMF after that validate the shipment. Enter the required fileds data e.g Incoterm, service term, quantity,   Value, Currency, Country of origin, Description of goods, Tariff of goods, CPC. Then release or hold the shipment as per shipment requirement."
+What type is folders are available for customer service department?,"INS1, INDJ, KAIN, KAJQ"
+Explain type of incoterm?,Two types of Incoterm EXW : Seller make the product available at designated location and buyer of the product cover the transport cost. CIF : Cost Insurance and Freight paid by a seller. 
+"Full form of DDP, DDU, DVU?","DDP - Delivery Duty Paid, DDU - Delivery Duty Unpaid, DVU -Duty Paid Vat Unpaid"
